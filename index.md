@@ -4,7 +4,16 @@
     <title>Simple co-browse with chat example</title>
 </head>
 <body>
-
+    
+<script
+  id="purecloud-webchat-js"
+  type="text/javascript"
+  src="https://apps.mypurecloud.com/webchat/jsapi-v1.js"
+  region="us-east-1"
+  org-guid="82a93788-03da-4575-8be0-a0e1c611f125"
+  deployment-key="e97a2d9c-03e7-4a37-8246-af1ceb7de226"
+></script>
+    
     <h1>Simple co-browse with chat example - bughuntprod</h1>
     <form>
         <label for="firstName">First Name</label>
@@ -88,7 +97,7 @@
 
                 // Deployment key for your cobrowse deployment from Genesys Cloud admin UI
                 "cobrowseConfig": {
-                    "deploymentKey": "e97a2d9c-03e7-4a37-8246-af1ceb7de226",
+                    "deploymentKey": "0ayfKA9U40yQE7yP9iEGO3p4VbOwHqih",
                 }
             };
         }
