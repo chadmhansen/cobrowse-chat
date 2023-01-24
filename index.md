@@ -34,9 +34,9 @@
         id="purecloud-webchat-js"
         type="text/javascript"
         src="https://apps.mypurecloud.com/webchat/jsapi-v1.js"
-        region="YOUR_REGION"
-        org-guid="YOUR_ORG_GUID"
-        deployment-key="YOUR_DEPLOYMENT_KEY"
+        region="us-east-1"
+        org-guid="82a93788-03da-4575-8be0-a0e1c611f125"
+        deployment-key="e97a2d9c-03e7-4a37-8246-af1ceb7de226"
     ></script>
 
     <script type="text/javascript">
@@ -50,30 +50,30 @@
                 webchatServiceUrl: 'https://realtime.mypurecloud.com:443',
 
                 // organization GUID
-                orgGuid: 'c398ad04-4448-4a91-adeb-fff0ff85c7a7',
+                orgGuid: '82a93788-03da-4575-8be0-a0e1c611f125',
 
                 // Numeric organization ID
                 orgId: 1234,
 
                 // Organization name. Replace with your org name.
-                orgName: 'yourorgname',
+                orgName: 'bughuntprod',
 
                 // Requested agent language skill (Agent must have this language skill to receive chat)
                 language: 'English - Written',
 
                 // Requested agent skills (Agent must have these skills to receive chat)
-                skills: ['Computers', 'Printers'],
+                //skills: ['Computers', 'Printers'],
                 // OR
-                //skills: [],
+                skills: [],
 
                 // Priority
                 priority: 0,
 
                 // Queue Name
-                queueName : 'Support',
+                queueName : 'ChadHansenQueue',
 
                 // Target agent email (OPTIONAL)
-                agentEmail: 'alex.agent@example.com',
+                agentEmail: '',
 
                 // Whether to show submit button or send message on Enter keypress
                 showSubmitButton: true,
