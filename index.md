@@ -133,24 +133,12 @@
                             var lastName = document.getElementById('last-name').value;
                             var agentEmail = document.getElementById('agent-email').value;
 
-                            // Use getConfig.setConfigProperty() for any web chat configuration property to dynamically set config values.
-                            webchat.getConfig().setData({
-                                firstName: firstName,
-                                lastName: lastName,
-                                addressStreet: '64472 Brown Street',
-                                addressCity: 'Lindgrenmouth',
-                                addressPostalCode: '50163-2735',
-                                addressState: 'FL',
-                                phoneNumber: '1-916-892-2045 x293',
-                                email: 'willie.duit@myspace.com',
-                                phoneType: 'Cell',
-                                customerId: 59606
-                            });
+                         
 
                             //Use the updateConfig function to update batches of properties by passing in a partially filled chatConfig object
                             webchat.updateConfig({
                                 agentEmail: 'debrah.agent@example.com',
-                                locale: 'es',
+                                locale: 'en',
                                 welcomeMessage: 'Welcome to Example support',
                             });
 
