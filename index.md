@@ -22,7 +22,7 @@
                 </tr>
                 <tr>
                     <th>Agent Email:</th>
-                    <td><input type="text" id="agent-email" value="alex.agent@example.com" /></td>
+                    <td><input type="text" id="agent-email" value="chad.hansen@bughuntprod.test" /></td>
                 </tr>
             </tbody>
         </table>
