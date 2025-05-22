@@ -61,8 +61,7 @@ screenshare - dca
             //Some customers may use an external application and browser support will not prohibit the initiation of screen share in that case
             "standAloneApplication": false,
 
-            "webchatDeploymentKey": "20b83982-30cd-402f-86f1-5532313904de
-"
+            "webchatDeploymentKey": "20b83982-30cd-402f-86f1-5532313904de"
 
         };
 
