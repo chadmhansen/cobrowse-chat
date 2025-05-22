@@ -19,7 +19,7 @@ screenshare - dca
         </div>
 
 
-<script src="https://apps.mypurecloud.com/webchat/jsapi-v1.js" type="text/javascript"></script>
+<script src="https://apps.inindca.com/webchat/jsapi-v1.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 
