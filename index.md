@@ -31,10 +31,10 @@ screenshare - dca
             "webchatAppUrl": "https://apps.inindca.com/webchat",
 
             // Numeric organization ID
-            "orgId": 16412,
+            "orgId": 1952105,
 
             // String organization ID
-            "orgName": "bughuntprod",
+            "orgName": "messagingintegration",
 
             // Log level (DEBUG, INFO, WARN, ERROR, or FATAL)
             "logLevel": "DEBUG",
