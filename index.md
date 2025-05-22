@@ -25,10 +25,10 @@ screenshare - dca
 
         var config = {
             // Webchat service URL
-            "webchatServiceUrl": "https://realtime.mypurecloud.com:443",
+            "webchatServiceUrl": "https://realtime.inindca.com:443",
 
             //Webchat app URL
-            "webchatAppUrl": "https://apps.mypurecloud.com/webchat",
+            "webchatAppUrl": "https://apps.inindca.com/webchat",
 
             // Numeric organization ID
             "orgId": 16412,
