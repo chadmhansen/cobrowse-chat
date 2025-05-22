@@ -31,10 +31,10 @@ screenshare - dca
             "webchatAppUrl": "https://apps.inindca.com/webchat",
 
             // Numeric organization ID
-            "orgId": 1952105,
+            "orgId": 1609724,
 
             // String organization ID
-            "orgName": "messagingintegration",
+            "orgName": "bughuntdca",
 
             // Log level (DEBUG, INFO, WARN, ERROR, or FATAL)
             "logLevel": "DEBUG",
@@ -42,7 +42,7 @@ screenshare - dca
             // Locale code of end-user which will be used to localize the widget
             "locale": "en",
 
-            "orgGuid": "996e85a6-c923-4f2c-a612-b276e21c1021",
+            "orgGuid": "772f78d5-d7e2-47ce-a114-3b57d0954e5f",
 
             // CSS class if widget is rendered as frame
             "cssClass": "screenshare-frame",
@@ -61,7 +61,7 @@ screenshare - dca
             //Some customers may use an external application and browser support will not prohibit the initiation of screen share in that case
             "standAloneApplication": false,
 
-            "webchatDeploymentKey": "20b83982-30cd-402f-86f1-5532313904de"
+            "webchatDeploymentKey": "0ef03345-2b89-40fa-bc44-96652bc1b0a4"
 
         };
 
